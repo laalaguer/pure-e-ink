@@ -1,0 +1,23 @@
+{
+    "name": "pure-e-ink",
+    "publisher": "laalaguer",
+    "repository": "https://github.com/laalaguer/pure-e-ink",
+    "displayName": "Pure E-ink",
+    "description": "A pure E-ink theme for black-and-white monitors. Tested on DaShang 25.3-inch monitor.",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pure E-ink Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Pure E-ink Theme-color-theme.json"
+            }
+        ]
+    }
+}
