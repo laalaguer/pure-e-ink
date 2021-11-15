@@ -8,3 +8,5 @@ Tested on DaShang monitors.
 Enjoy!
 
 <img src="./ScreenShotEInk.png" style="height: 300px">
+
+# MIT License
